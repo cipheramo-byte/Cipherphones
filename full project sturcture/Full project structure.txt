@@ -1,0 +1,19 @@
+cipher-phones/
+│
+├── app.py
+├── models.py
+├── config.py
+├── render.yaml
+├── requirements.txt
+│
+├── templates/
+│   ├── index.html
+│   ├── login.html
+│   ├── signup.html
+│   ├── cart.html
+│   ├── pay.html
+│   ├── admin.html
+│   └── add_product.html
+│
+├── static/
+│   └── style.css
